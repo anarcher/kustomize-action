@@ -4,7 +4,7 @@ author: 'anarcher'
 inputs: 
   kustomize:
     description: "kustomize CLI: [command] [options]"
-  setImage:
+  set_image:
     description: "kustomize edit set image [image]"
   path:
     description: "kustomize path"
